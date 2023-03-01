@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 This site is live at :
-- https://matthieu96code.github.io/portfolio-setup-mobile-first/
+- https://matthieu96code.github.io/my-portfolio-refactor/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
