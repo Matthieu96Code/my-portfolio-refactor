@@ -22,10 +22,9 @@ for (let list = 0; list < menuList.length; list += 1) {
 const works = {
   projectOne: {
     name: '<h3>Multi-Post Stories</h3>',
-    description:
-      "<p>A daily selection of privately personalized reads; no accounts or sign-ups required. has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.</p>",
+    description: '<p>A daily selection of privately personalized reads; no accounts or sign-ups required. has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.</p>',
     featuredImage:
-      '<img src="img\\Project\\togoville jazz project.png" alt="project one interface"></img>',
+      '<img src="img\\Project\\togoville jazz project.PNG" alt="project one interface"></img>',
     technologies:
       '<ul>\n\t<li><a href="#" >css</a></li>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
