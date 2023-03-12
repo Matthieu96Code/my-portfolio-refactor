@@ -22,15 +22,16 @@ for (let list = 0; list < menuList.length; list += 1) {
 const works = {
   projectOne: {
     name: '<h3>Multi-Post Stories</h3>',
-    description: '<p>A daily selection of privately personalized reads; no accounts or sign-ups required. has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.</p>',
+    description:
+      "<p>A daily selection of privately personalized reads; no accounts or sign-ups required. has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.</p>",
     featuredImage:
-      '<img src="img\\Project\\togoville jazz project.PNG" alt="project one interface"></img>',
+      '<img src="img\\Project\\Img Placeholder.png" alt="project one interface"></img>',
     technologies:
       '<ul>\n\t<li><a href="#" >css</a></li>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a target="blank" href="https://matthieu96code.github.io/capstone-project1-concert/index.html" >See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
-      '<a target="blank" href="https://github.com/Matthieu96Code/capstone-project1-concert">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
+      '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
 
   projectTwo: {
@@ -42,7 +43,7 @@ const works = {
     technologies:
       '<ul>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a href="#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
       '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
@@ -56,7 +57,7 @@ const works = {
     technologies:
       '<ul>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a href="#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
       '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
@@ -70,7 +71,7 @@ const works = {
     technologies:
       '<ul>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a href="#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
       '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
@@ -84,7 +85,7 @@ const works = {
     technologies:
       '<ul>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a href="#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
       '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
@@ -98,7 +99,7 @@ const works = {
     technologies:
       '<ul>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a href="#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
       '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
@@ -112,7 +113,7 @@ const works = {
     technologies:
       '<ul>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
-      '<a href="#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
+      '<a href"#">See Live<img src="img\\popup\\see live.png" alt="live icon"></a>',
     sourceLink:
       '<a href="#">See Source<img src="img\\popup\\Vector.png" alt="git logo"></a>',
   },
