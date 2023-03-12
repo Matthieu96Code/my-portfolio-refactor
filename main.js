@@ -25,7 +25,7 @@ const works = {
     description:
       "<p>A daily selection of privately personalized reads; no accounts or sign-ups required. has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.</p>",
     featuredImage:
-      '<img src="img\\Project\\Img Placeholder.png" alt="project one interface"></img>',
+      '<img src="img\\Project\\togoville jazz project.PNG" alt="project one interface"></img>',
     technologies:
       '<ul>\n\t<li><a href="#" >css</a></li>\n\t<li><a href="#" >html</a></li>\n\t<li><a href="#" >bootstrap</a></li>\n\t<li><a href="#" >Ruby on rails</a></li>\n</ul>',
     liveLink:
