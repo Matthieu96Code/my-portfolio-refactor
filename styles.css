@@ -873,9 +873,7 @@ button:visited {
   }
 
   .contacts {
-    padding: 0;
-    padding-left: 9%;
-    padding-right: 9%;
+    padding: 0 9%;
     flex-direction: row;
   }
 
