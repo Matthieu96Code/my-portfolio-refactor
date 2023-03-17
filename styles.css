@@ -501,9 +501,7 @@ a {
 .social-media2 li {
   list-style-type: none;
   display: inline;
-  padding: 0;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 0 10px;
 }
 
 .contacts ul li {
